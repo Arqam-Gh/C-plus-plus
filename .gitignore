@@ -1,0 +1,4 @@
+social_hub/node_modules/
+social_hub/database.sqlite
+social_hub/*.log
+*.log
